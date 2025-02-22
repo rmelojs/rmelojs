@@ -2,8 +2,7 @@
 <!--
 **rmelo55/rmelo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on React project
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on Next.js and CodeIgniter projects
 <!--
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
